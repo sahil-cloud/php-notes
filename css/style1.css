@@ -1,0 +1,43 @@
+.inner {
+    overflow: hidden;
+}
+
+.inner img {
+    transition: all 1.5s ease;
+}
+
+.inner:hover img {
+    transform: scale(1.5);
+}
+
+.fullfooter {
+    background-color: rgb(68, 65, 65);
+}
+
+.topfoot {
+    color:black;
+}
+
+.topfoot a:hover {
+    color: black;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.bottom-footer {
+    background-color: black;
+
+}
+
+.logo {
+    border: 3px solid;
+}
+.logo:hover {
+    color: white ;
+}
+
+.lightpink1 {
+    background-color: lightpink;
+}
+
+
